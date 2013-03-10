@@ -24,10 +24,10 @@
 			'bgOpacity'       : 0.5,
 			'subtitleHeight'  : 80,
 			'border'          : 20,
-			'urlLoader'       : 'http://nadeb-lightbox.googlecode.com/svn/trunk/images/loading.gif',
-			'close'           : 'http://nadeb-lightbox.googlecode.com/svn/trunk/images/close.png',
-			'next'            : 'http://nadeb-lightbox.googlecode.com/svn/trunk/images/next.png',
-			'back'            : 'http://nadeb-lightbox.googlecode.com/svn/trunk/images/back.png'
+			'urlLoader'       : 'https://raw.github.com/mateusweb/nadeb-components/master/lightbox/images/loading.gif',
+			'close'           : 'https://raw.github.com/mateusweb/nadeb-components/master/lightbox/images/close.png',
+			'next'            : 'https://raw.github.com/mateusweb/nadeb-components/master/lightbox/images/next.png',
+			'back'            : 'https://raw.github.com/mateusweb/nadeb-components/master/lightbox/images/back.png'
 		},
 		_events = {
 			open : function()
