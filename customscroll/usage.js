@@ -4,7 +4,10 @@
 	{
 		$('.customScroll').customScroll({
 				'width'  : 380,
-				'height' : 400
-			});
+				'height' : 450
+		});
+
+		$('.customScroll').fadeIn('fast');
+
 	});
 })();

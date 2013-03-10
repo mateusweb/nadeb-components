@@ -79,8 +79,6 @@
 								var areaY    = inner.height() - content.height();
 								var move     = -areaY * percentY;
 
-								console.info( inner.height() )
-
 								inner.css({
 									'position' : 'absolute',
 									'top'      : move
