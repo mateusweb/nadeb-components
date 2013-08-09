@@ -116,7 +116,7 @@
 
 			$('.hand').css({
 				'cursor'     : 'pointer',
-				'display'      : 'block'
+				'display'    : 'block'
 			})
 
 
